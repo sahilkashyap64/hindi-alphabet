@@ -147,6 +147,98 @@ const lessons = [
   },
 ];
 
+/***
+Hindi  आ like ant pincer
+
+Sounds you make when ant bite 
+अ
+आ
+ओ
+औ
+अं
+अः
+
+Remember how ant pincer were attached to crutch,it was hanging with this crutch
+
+We take that away, it falls on it butt, says u**add bolder from ATLA
+
+Now someone is trying to pull it down farther add a clip someone falling in abyss or well
+उ
+[u]
+ऊ
+[oo]
+ए
+[a]
+ऐ
+[ae]
+
+This looks like an ankle say the a with swag , aaaa add emunaella south african sound
+
+
+क
+Cut the infinity sign,using a katana....or youbcan think it of as T cutting the nine
+
+ख ulta rabbit looking for khana(food) or khel, add picture of smashing rabbit head play
+
+ग - looks like a music note gao gana,gu gu gaga lady gaga
+
+
+Rember the ant pincer 
+घ here we Gate keep the ant pincer, gate keep 
+
+Here's a tip you may think just imagine you adding a lil bit airy H with to get the sound
+
+च- looks like a bird chrip like a bird, use tweet bird sugn
+
+छ- looks like madu makhi ka chata
+
+ज- reverse bird,it seems jet lagged sticking, jaan chali gai, jaal mein fans gai, the chriper ka jackpot of insects so eating them from the tree trunk
+
+झ jheel pe dam lagao, hijack the lake ,reverse bird down with swing by a rope,befriends a snake 
+ट bird is tired 
+ठ bird is tired and taxes, it's taking a toll, should be commit crimes tax fraud but that may leads getting hanged
+
+ड- down to pray down like japanes sitting with knees bent 
+
+
+त- cup in spanish is taza
+प- raise your cups
+फ- f the cups and taza
+थ- the swan is thanking for the cup
+
+द- rember the tired bird it's dead now
+
+ध rember the chata - let's roll the honey using roller in use the dhanush
+
+न- singing note again nail it on the wall
+
+ब- baby in the belly
+व- no baby , but very fat
+
+म- manly cup
+
+भ- bhai ka cup, bros cup,bears cup bhalu ka cup, 
+
+य- your cup
+
+र- inverted r bro
+[r]
+
+स- r+cup ki surgery hogai
+श- srushuta na surgery ki
+
+ष- sharted cup
+ह- crab hand gonba get you and crab be like captian hook ha ha
+
+क्ष- tired bird en tangled,in shitty ways, he'll become a kshatriya to avenge
+
+त्र- triple legs cool dude
+
+ऋ- triple legs dude hanging out with tired tangled bire khatriya , but let's get blessing from Rishi first
+
+ज्ञ- tired bired with legs down ,seeks Gyan from rishi
+*/
+
 const Lesson = ({ title, content, practice }) => (
   <div className="lesson">
     <h3>{title}</h3>
